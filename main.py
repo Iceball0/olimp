@@ -1,1 +1,1 @@
-print('hello lty')
+print('hello владлох')
