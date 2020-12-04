@@ -1,1 +1,1 @@
-print('hello влад')
+print('hello lty')
