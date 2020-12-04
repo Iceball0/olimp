@@ -26,8 +26,7 @@ while True:
             break
         li2.append((x, y))
         ui = li[x-1][y - 1]
-        function(li[x - 1][y - 1], x, y)
-        print(li2)
+        x, y = function(li[x - 1][y - 1], x, y)
     except:
         print('YES')
         break
