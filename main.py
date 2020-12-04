@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def function(bu, x, y):
     if bu == 'r':
         y += 1
@@ -31,3 +32,6 @@ while True:
         print('YES')
         break
 
+=======
+print('hello')
+>>>>>>> origin/master
