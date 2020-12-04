@@ -1,1 +1,1 @@
-push1
+print('hello world')
