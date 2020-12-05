@@ -2,3 +2,4 @@
 манту: привет
 reverse: hello
 mantu: UwU
+reverse: я решил уже тебе 1 задачу
