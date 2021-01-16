@@ -3,6 +3,8 @@ k = int(input())
 a, x = map(int, input().split())
 b, y = map(int, input().split())
 
+if x
+
 elif a != b:
     if b > a:
         k -= a
