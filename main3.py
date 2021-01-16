@@ -2,7 +2,8 @@ res = 0
 k = int(input())
 a, x = map(int, input().split())
 b, y = map(int, input().split())
-if a != b:
+
+elif a != b:
     if b > a:
         k -= a
         res += x * k
