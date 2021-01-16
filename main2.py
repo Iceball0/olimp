@@ -7,5 +7,6 @@ elif a == 0 and b == 0:
     print(k * max(x, y))
 elif a == b and (k - a) >= 0:
     print((k - a) * max(x, y))
+
 else:
     print(0)
